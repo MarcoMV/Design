@@ -1,0 +1,14 @@
+﻿/*startweb.com |My primera Startup .- http://starweb.com*/
+/*TEAM*/
+
+Creator: Marco Antonio Velazquez
+Contact: markovera93[at]hotmail.com
+Twitter: @mvmko93
+From: Mexico city, México
+
+/*SITE */
+Last update: 2014/08/07
+Language: Español
+Standars: HTML5, CSS3, JavaScript
+Components: jQuery
+Software: SublimeText3
